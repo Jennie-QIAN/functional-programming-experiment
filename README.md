@@ -1,5 +1,3 @@
-# technical-test-nodejs
-
 ## install dependancies
 `yarn`
 
